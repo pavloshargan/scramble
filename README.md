@@ -4,7 +4,7 @@ A Mac/iOS interactive game showcasing usage of an AirPod in the hand as a game c
 
 Hold an AirPod, tilt your hand, catch the eggs.
 
-<!-- demo gif goes here -->
+![scramble in action](demo.gif)
 
 ## Build
 
